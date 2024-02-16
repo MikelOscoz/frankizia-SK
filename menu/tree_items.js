@@ -43,6 +43,7 @@ var TREE_ITEMS = [
 				['Bezeroari buruzko informazioa','https://www.amrest-franquicias.com/en/la-tagliatella'],
 				['Bezeroaren proposamen eskaera (Request for proposals - RFP)',null,
 					['Bezeroarengandik jasotako RFP','../Proiektua/MemoriarenEranskinak/RFP-bp.pdf'],
+					['Bezeroarengandik jasotako RFP v2','../Proiektua/MemoriarenEranskinak/RFP-bpv2.pdf'],
 				],
 			],
 			[' A2 - Analisi eta Diseinua',null,
@@ -136,7 +137,18 @@ var TREE_ITEMS = [
 			],
 			[' Erabilpen Kasuen Eredua','../Proiektua/MemoriarenEranskinak/Especificacion del sistema/Requisitos/WebErabilpenKasuak/index.html']
 		],
-		
+		[' Sistemaren Espezifikazioa v2',null,
+			[' Glosarioa','../Proiektua/SistemarenEspezifikazioa/glossary_v2.pdf'],
+			[' Bisioa','../Proiektua/SistemarenEspezifikazioa/Vision_v2.pdf'],
+			[' Betebeharren Espezifikazioa','../Proiektua/SistemarenEspezifikazioa/systemwide_req_spec_v2.pdf'],
+
+			[' Erabilpen kasuak eta jarduera diagramak', null,
+				[' Manage Franchise Information','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Manage Franchise Information_v2.pdf',],
+				[' Monitor Franchise Performance','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Monitor Franchise Performance_v2.pdf',],
+				[' Support Franchisee Training','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Support Franchisee Training_v2.pdf',],,
+			],
+			[' Erabilpen Kasuen Eredua','../Proiektua/MemoriarenEranskinak/Especificacion del sistema/Requisitos/WebErabilpenKasuak/index.html']
+		],
 		[' Aurrekontua', null,
 			[' Orokortasunak', null,],
 			[' Edukia', null,]
