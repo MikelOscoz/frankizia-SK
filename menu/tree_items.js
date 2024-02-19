@@ -122,6 +122,9 @@ var TREE_ITEMS = [
 					[' RFP erantzunen hasierako ebaluazioa','../Proiektua/MemoriarenEranskinak/Software projects proposals evaluation template.pdf'],
 
 				],
+				['Ikuskaritzak', null, 
+					['Ikuskaritza dokumentua', '../Proiektua/ikuskaritza-BP.pdf'],
+				],
 			]
 		],
 
