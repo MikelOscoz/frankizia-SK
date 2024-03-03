@@ -48,7 +48,7 @@ var TREE_ITEMS = [
 			],
 			[' A2 - Analisi eta Diseinua',null,
 				[' Analisia',null,
-					[' Analisis Model','../Proiektua/MemoriarenEranskinak/UML/RSAD/index.html'],
+					[' Analisis Model','../Proiektua/MemoriarenEranskinak/analisi-eredua/index.html'],
 				],
 				[' Arkitektura ', null,
 					['Arkitektura dokumentua (Architecture Notebook)','../Proiektua/MemoriarenEranskinak/ArchitectureNotebook.pdf'],
