@@ -135,7 +135,7 @@ var TREE_ITEMS = [
 				[' Monitor Franchise Performance','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Monitor Franchise Performance.pdf',],
 				[' Support Franchisee Training','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Support Franchisee Training.pdf',],,
 			],
-			[' Erabilpen Kasuen Eredua','../Proiektua/MemoriarenEranskinak/Especificacion del sistema/Requisitos/WebErabilpenKasuak/index.html']
+			[' Erabilpen Kasuen Eredua','../Proiektua/SistemarenEspezifikazioa/UML/RSAD/index.html']
 		],
 		[' Sistemaren Espezifikazioa v2',null,
 			[' Glosarioa','../Proiektua/SistemarenEspezifikazioa/glossary_v2.pdf'],
@@ -147,7 +147,7 @@ var TREE_ITEMS = [
 				[' Monitor Franchise Performance','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Monitor Franchise Performance_v2.pdf',],
 				[' Support Franchisee Training','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Support Franchisee Training_v2.pdf',],,
 			],
-			[' Erabilpen Kasuen Eredua','../Proiektua/MemoriarenEranskinak/Especificacion del sistema/Requisitos/WebErabilpenKasuak/index.html']
+			[' Erabilpen Kasuen Eredua','../Proiektua/SistemarenEspezifikazioa/UML/RSAD/index.html']
 		],
 		[' Aurrekontua', null,
 			[' Orokortasunak', null,],
