@@ -118,7 +118,7 @@ var TREE_ITEMS = [
 					[' Proba Log-a', null],
 					[' Proba Script-a', null],
 					[' Proben emaitzak', null],
-					[' User acceptace test (UAT)','../Proiektua/MemoriarenEranskinak/User-Accetptance-Test-Plan-Free-Word-Template.pdf'],
+					[' User acceptace test (UAT)','../Proiektua/MemoriarenEranskinak/UAT.pdf'],
 					[' RFP erantzunen hasierako ebaluazioa','../Proiektua/MemoriarenEranskinak/Proposamena RFPekin parekatuta ebaluatzeko txantiloia BP.pdf'],
 
 				],
